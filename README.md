@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Berg-bot
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning New Cybersecurity tools..
+- 💞️ I’m looking to collaborate on SOC and Blue Teams
+- 📫 How to reach me www.linkedin.com/in/daniel-berg-viegas-98262418b
