@@ -15,6 +15,3 @@ EDR/XDR incident responses such as malwares or malicious activity in endpoints
 Security incident reporting and presentation
 SOC metrics and performance visualization
 Hands-on defense techniques and analysis
-
-# 🎓 Continuous Learning
-I’m actively pursuing advanced knowledge in cybersecurity through both academic studies and real-world practice. My goal is to combine analytical thinking with clear communication to improve organizational security posture.
